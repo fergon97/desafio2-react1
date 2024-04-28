@@ -10,6 +10,19 @@ body {
   min-height: 100vh;
 }
 
-.msge-alerta{
+h1 {
+  background: linear-gradient(to right, #0b191a 0%, #6e8bbf 50%, #7f36f1 100%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.btn:hover {
+  color: #fff;
+  background-color: #42576c;
+  border-color: #42576c;
+}
+
+.msge-alerta {
   padding: 1rem;
 }
